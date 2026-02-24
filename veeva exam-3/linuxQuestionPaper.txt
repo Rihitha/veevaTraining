@@ -1,0 +1,27 @@
+veeva integrated program assignment-3
+subject-Linux operating system concepts
+Type- practical test
+
+Q1)Linux script to search files.
+
+A)Write a script to check if a file exists in a system or not. 
+1)Check a if a  file exits in current directory or not.
+2)check whether a file exits any part in the system or not.
+
+B)Write a Linux script that searches for files modified within the last three days within the current directory.
+
+C)Write a Linux script that searches for the files larger than 1kb in current directory.
+
+D) Write a Linux script that searches for the files with a specific extinction in current directory.
+
+
+Q2)Text processing and searching foe patterns.
+
+A)Write a Linux script that searches for a specific string in a given text file.
+
+B)Consider html file as input now write Linux script to extract text between specified html tags.
+
+Q3)
+A))write a script that file log error to separate file log.txt
+
+B) write a script that log error to separate file error.txt
